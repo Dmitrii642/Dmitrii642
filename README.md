@@ -44,13 +44,14 @@ My name is Dmitrii. I am an IOS Developer from Saint-Petersburg <img src="https:
 - :memo: I'm blogging in [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iakovlevs)
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dima_lakovlev)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-Yellow?style=flat&logo=Gmail&logoColor=white)](dmit.iakovlev@gmail.com)
 
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" title="Swift" alt="Github" width="45" height="45"/>&nbsp;
 <img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" title="Figma" alt="Github" width="80" height="40"/>&nbsp;
   

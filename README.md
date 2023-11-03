@@ -12,8 +12,8 @@
   <a href="https://www.instagram.com/dima.lakovlev/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://spb.hh.ru/resume/83238829ff0bad13570039ed1f7068736b714a">
-    <img src="https://img.shields.io/badge/Headhunter-brown?style=for-the-badge&logo=headhunter&logoColor=white" alt="Headhunter Badge"/>
+  <a href="https://t.me/Dima_lakovlev">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Dmitrii642&style=flat-square&color=blue" alt=""/>

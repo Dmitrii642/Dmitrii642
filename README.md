@@ -44,7 +44,6 @@ My name is Dmitrii. I am an IOS Developer from Saint-Petersburg <img src="https:
 - :memo: I'm blogging in [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iakovlevs)
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dima_lakovlev)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-Yellow?style=flat&logo=Gmail&logoColor=white)](dmit.iakovlev@gmail.com)
 
  ---
 

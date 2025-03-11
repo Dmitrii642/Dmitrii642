@@ -33,7 +33,7 @@
 
 
 ---
-
+/*
 ### :man_technologist: About Me :
 My name is Dmitrii. I am an IOS Developer from Saint-Petersburg <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -61,6 +61,8 @@ My name is Dmitrii. I am an IOS Developer from Saint-Petersburg <img src="https:
 
   ---
 ### :bar_chart: My Stats :
+
+*\
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dmitrii642&mode=weekly)](https://git.io/streak-stats)

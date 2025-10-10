@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/dima.lakovlev/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://t.me/Dima_lakovlev">
+  <a href="https://t.me/dima_iakovlev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>

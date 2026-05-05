@@ -41,7 +41,7 @@ My name is Dmitrii. I am an IOS Developer from Saint-Petersburg <img src="https:
 
 - :lab_coat: In my free time, I am passionate about the fashion industry and the history of art.
 
-- :memo: I'm blogging in [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iakovlevs)
+<!-- - :memo: I'm blogging in [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iakovlevs) -->
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dima_iakovlev)
 
